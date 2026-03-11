@@ -32,6 +32,25 @@ const skillCategories = [
             "MySQL",
         ],
     },
+    {
+        title: "Bases de données",
+        icon: Server,
+        color: "from-violet-500 to-purple-500",
+        skills: [
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB",
+        ],
+    },
+     {
+        title: "DevOps & Outils",
+        icon: Server,
+        color: "from-violet-500 to-purple-500",
+        skills: [
+            "Docker",
+            "Git",
+        ],
+    },
 ];
 
 export function Skills() {
